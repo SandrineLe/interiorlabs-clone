@@ -265,13 +265,13 @@ a:hover {text-decoration: none!important;
 
 /* 2/7 - IMAGE */
     .div2 {
-      background-image: url("../images/alexandra-gorn.jpg");
+      background-image: url("./images/alexandra-gorn.jpg");
       background-size: cover;
     }
 
 /* 3/7 - IMAGE */
 .div3 {
-  background-image: url("../images/vinicius-amnx-amano.jpg");
+  background-image: url("./images/vinicius-amnx-amano.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -327,7 +327,7 @@ a:hover {text-decoration: none!important;
 /* 5/7 - IMAGE */
 
     .div5 {
-      background-image: url("../images/christelle-bourgeois.jpg");
+      background-image: url("./images/christelle-bourgeois.jpg");
       background-size: cover;
       background-position: center;
     }
